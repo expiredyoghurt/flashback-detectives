@@ -8,4 +8,4 @@ directory = "./public"
 [[d1_databases]]
 binding = "DB"
 database_name = "flashback-db"
-database_id = "d081d63e-ebcb-4304-8141-a80036a8f96a"
+database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
